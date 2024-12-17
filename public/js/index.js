@@ -1,0 +1,1 @@
+console.log('Estas en la página de inicio')
